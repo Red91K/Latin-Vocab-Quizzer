@@ -1,0 +1,7 @@
+{
+   "ConfigPath":".config/",
+   "ListsFolderPath":"vocab_lists/",
+   "ShuffleWords":true,
+   "DefaultVocabFile":"example_list.txt",
+   "UseMostRecent":true
+}
