@@ -204,7 +204,3 @@ def main():
 
 main()
 
-# DONE - cancel last submission / mark as true
-# DONE - handle array out of bounds exception if - not inputted
-# DONE - automatically opening most recent file?   
-# TODO - statistics based on filename?
